@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="H_Line" type="Line2D"]
+points = PoolVector2Array( 24, -304, 24, 0, 24, 304 )
+width = 6.0
+default_color = Color( 0.333333, 0.917647, 0.603922, 1 )
